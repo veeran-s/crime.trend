@@ -1,0 +1,11 @@
+{
+  "ensemble_r2": 0.9599382661619245,
+  "ensemble_mape": 0.8890132116003918,
+  "ensemble_rmse": 17.33839613041817,
+  "training_days": 22,
+  "testing_days": 7,
+  "prediction_days": 30,
+  "average_prediction": 1372.302602592462,
+  "historical_average": 1209.9655172413793,
+  "performance_level": "EXCELLENT"
+}
